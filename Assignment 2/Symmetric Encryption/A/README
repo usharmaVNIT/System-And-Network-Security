@@ -1,0 +1,10 @@
+use python 3 . 
+All files take input from files and user only has provide input for communication
+
+Key is taken from key.txt
+Code for DES is inside the file called DES.py and is being used in both the files
+
+
+python3 BT18CSE021_SE_A_De.py
+
+python3 BT18CSE021_SE_A_En.py

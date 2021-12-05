@@ -1,0 +1,15 @@
+use python 3 . 
+All files take input from files and user only has provide input for communication
+All keys are stored and retrieved from keys.txt (except for session key )
+utils.py contains heliport functions
+
+python3 BT18CSE021_KM_A_Kg.py
+
+python3 BT18CSE021_KM_A_Kdc.py
+
+python3 BT18CSE021_KM_A_Bob.py
+
+python3 BT18CSE021_KM_A_Alice.py
+
+
+This is Question 4

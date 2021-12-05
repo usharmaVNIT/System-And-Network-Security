@@ -1,0 +1,2 @@
+n ( p*q ) , s (secretKey b/w 2,n-2) , v (publicKey s**2%n) 
+212533,140736,33827

@@ -1,0 +1,18 @@
+use python 3 . 
+All files take input from files and user only has provide input for communication
+
+Key is taken from keys.txt
+Code for fiestal cipher is inside fiestalCipher.py and both the files use it
+
+Note for keys
+
+0010 -> 2 , 0001 -> 1 => 00100001 => (21)hex (8 bits) = (33)dec = key1
+00010101 -> 21 in dec
+block contains 8 bit numbers
+So keys = [33 , 21]
+
+
+
+python3 BT18CSE021_SE_A_De.py
+
+python3 BT18CSE021_SE_A_En.py

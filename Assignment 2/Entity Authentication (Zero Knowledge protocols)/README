@@ -1,0 +1,13 @@
+use python 3 . 
+All files take input from files and user only has provide input for communication
+All keys are stored and retrieved from keys.txt
+
+I have specified number of rounds = 6 and can be modified in the code
+
+python3 BT18CSE021_EA_A_Kg.py
+
+python3 BT18CSE021_EA_A_Sg.py
+
+python3 BT18CSE021_EA_A_Vf.py
+
+This is Question 3
